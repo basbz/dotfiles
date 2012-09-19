@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/www/viewbook.tmp/manager/test'
+let g:netrw_dirhist_2='/www/studiumgeneralekabk.nl/cms'
+let g:netrw_dirhist_3='/www/studiumgeneralekabk.nl/cms/lib'
+let g:netrw_dirhist_4='/www/studiumgeneralekabk.nl/cms/lib/php'
+let g:netrw_dirhist_5='/www/studiumgeneralekabk.nl/cms/lib/js'
+let g:netrw_dirhist_6='/www/studiumgeneralekabk.nl/cms'

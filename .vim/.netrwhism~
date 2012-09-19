@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/www/viewbook/manager'
+let g:netrw_dirhist_2='/www/viewbook/manager/public/test'
+let g:netrw_dirhist_3='/www/viewbook/manager/app/assets/javascripts/app'
+let g:netrw_dirhist_4='/www/viewbook/manager/app/assets/javascripts/app/models'
+let g:netrw_dirhist_5='/www/viewbook/manager'
+let g:netrw_dirhist_6='/www/viewbook/manager/app/assets/javascripts/app/controllers'
+let g:netrw_dirhist_7='/www/viewbook/manager'
+let g:netrw_dirhist_8='/www/viewbook/manager/public'
+let g:netrw_dirhist_9='/www/viewbook/manager/public/test'

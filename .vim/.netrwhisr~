@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/www/viewbook/manager/app/assets/javascripts'
+let g:netrw_dirhist_2='/www/viewbook/manager/app/assets/javascripts/app'
+let g:netrw_dirhist_3='/www/viewbook/manager/app/assets/javascripts/app/views'
+let g:netrw_dirhist_4='/www/viewbook/manager/app/assets/javascripts/app/controllers'
+let g:netrw_dirhist_5='/www/viewbook/manager/app/assets/javascripts'

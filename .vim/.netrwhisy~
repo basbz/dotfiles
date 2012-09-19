@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/www/connyjanssendanst.nl/cms/lib/php'
+let g:netrw_dirhist_2='/www/connyjanssendanst.nl'
+let g:netrw_dirhist_3='/www/connyjanssendanst.nl/2011'
+let g:netrw_dirhist_4='/www/connyjanssendanst.nl/2011/php'
+let g:netrw_dirhist_5='/www/connyjanssendanst.nl/2011/php/mod'
+let g:netrw_dirhist_6='/www/snipr-4/coffee'
