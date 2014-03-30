@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/bbz/viewbook/text-editor'
+let g:netrw_dirhist_2='/Users/bbz/viewbook/text-editor/js'
+let g:netrw_dirhist_3='/Users/bbz/viewbook/text-editor'
+let g:netrw_dirhist_4='/Users/bbz/viewbook/text-editor/js'
+let g:netrw_dirhist_5='/Users/bbz/viewbook/text-editor/js/vendor'
+let g:netrw_dirhist_6='/Users/bbz/viewbook/text-editor/js/vendor/rangy-1.2.2'
+let g:netrw_dirhist_7='/Users/bbz/viewbook/text-editor'
+let g:netrw_dirhist_8='/Users/bbz/viewbook/text-editor/js/vendor/rangy-1.2.2'

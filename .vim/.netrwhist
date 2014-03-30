@@ -1,9 +1,8 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =7
-let g:netrw_dirhist_1='/Users/basbenzineb/viewbook/manager/app'
-let g:netrw_dirhist_2='/Users/basbenzineb/viewbook/manager/app/controllers'
-let g:netrw_dirhist_3='/Users/basbenzineb/viewbook/manager/app'
-let g:netrw_dirhist_4='/Users/basbenzineb/viewbook/manager/app/models'
-let g:netrw_dirhist_5='/Users/basbenzineb/viewbook/manager/app/assets/javascripts/edit'
-let g:netrw_dirhist_6='/Users/basbenzineb/viewbook/manager/app/assets/javascripts/edit/app'
-let g:netrw_dirhist_7='/Users/basbenzineb/viewbook/manager/app/assets/javascripts/edit/app/views'
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/bbz/viewbook/Bas/event-source'
+let g:netrw_dirhist_2='/Users/bbz/viewbook/Bas/event-source/spec'
+let g:netrw_dirhist_3='/Users/bbz/viewbook/Bas/event-source/vendor'
+let g:netrw_dirhist_4='/Users/bbz/viewbook/Bas/event-source'
+let g:netrw_dirhist_5='/Users/bbz/viewbook/albums-api'
+let g:netrw_dirhist_6='/Users/bbz/viewbook/manager/app/assets/javascripts/manager/app/models'

@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/bbz/viewbook/manager/app/assets/components/plugins'
+let g:netrw_dirhist_2='/Users/bbz/viewbook/manager/app/assets/components/plugins/classic-gallery'
+let g:netrw_dirhist_3='/Users/bbz/viewbook/manager/app/assets/components/plugins/classic-gallery/panels'
+let g:netrw_dirhist_4='/Users/bbz/viewbook/manager/app/assets/components/plugins/classic-gallery/panels/templates'
+let g:netrw_dirhist_5='/Users/bbz/viewbook/manager/app/assets/components/plugins/default'
+let g:netrw_dirhist_6='/Users/bbz/viewbook/manager/app/assets/components/plugins/default/panels'
+let g:netrw_dirhist_7='/Users/bbz/viewbook/manager/app/assets/components/plugins/default/panels/templates'
+let g:netrw_dirhist_8='/Users/bbz/viewbook/manager/app/assets'
+let g:netrw_dirhist_9='/Users/bbz/viewbook/manager/app/assets/components/managers'
