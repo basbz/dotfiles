@@ -2,6 +2,32 @@
 set dir =~/swp,~/tmp,/var/tmp,/tmp
 set nocompatible
 
+filetype off                  " required
+
+" set the runtime path to include Vundle and initialize
+set rtp+=~/.vim/bundle/Vundle.vim
+call vundle#begin()
+" alternatively, pass a path where Vundle should install plugins
+"call vundle#begin('~/some/path/here')
+
+" let Vundle manage Vundle, required
+Plugin 'gmarik/Vundle.vim'
+
+" My bundles here:
+"
+" original repos on GitHub
+" Bundle 'Lokaltog/powerline', {'rtp': 'powerline/bindings/vim/'}
+Bundle 'scrooloose/syntastic'
+Bundle 'scrooloose/nerdcommenter'
+Bundle 'nono/vim-handlebars'
+Bundle 'nathanaelkane/vim-indent-guides'
+Bundle 'csexton/trailertrash.vim'
+Bundle 'jpalardy/vim-slime'
+Bundle 'spolu/dwm.vim'
+
+call vundle#end()            " required
+filetype plugin indent on    " required
+
 set number
 set ruler
 syntax enable
@@ -78,21 +104,3 @@ let g:indent_guides_guide_size=1
 let g:indent_guides_auto_colors = 0
 autocmd VimEnter,Colorscheme * :hi IndentGuidesOdd  ctermbg=231
 autocmd VimEnter,Colorscheme * :hi IndentGuidesEven ctermbg=254
-set rtp+=~/.vim/bundle/vundle/
-call vundle#rc()
-
-" let Vundle manage Vundle
-" required! 
-Bundle 'gmarik/vundle'
-
-" My bundles here:
-"
-" original repos on GitHub
-Bundle 'Lokaltog/powerline', {'rtp': 'powerline/bindings/vim/'}
-Bundle 'scrooloose/syntastic'
-Bundle 'scrooloose/nerdcommenter'
-Bundle 'nono/vim-handlebars'
-Bundle 'nathanaelkane/vim-indent-guides'
-Bundle 'csexton/trailertrash.vim'
-Bundle 'jpalardy/vim-slime'
-Bundle 'spolu/dwm.vim'
