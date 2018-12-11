@@ -12,3 +12,4 @@ set_prompt_style () {
 }
 
 set_prompt_style
+alias ec="emacs -nw"
